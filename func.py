@@ -62,11 +62,32 @@
 #         for output in range(x_count):
 #             print(output)
 #             resate += "X"
-# f_save()
+# f_save()  
 
 
+# def game():
+# 	hidden_number = 7
+# 	inputted = int(input("Enter Your Number: "))
+# 	if hidden_number == inputted:
+# 		print("Correct", hidden_number)
+# 		return inputted
+# 	elif hidden_number <= inputted:
+# 		print("some small try", inputted)
+# 	elif hidden_number >= inputted:
+# 		print("some large rty")
+# 	else:
+# 		print("enter any number")
 
 
+# # game()
 
 
+# i = 0
+# while i <=5:
+# 	match = game()
+	
+# 	if match:
+# 		break
+
+# 	i += 1
 

@@ -10,11 +10,6 @@ comment
 
 # if name == 'Rayhan':
 # 	print('True')
-# 	print('True')
-# 	print('True')
-# 	print('True')
-# 	print('True') 
-
 
 # if else statement
 # if name == 'Rayan':
@@ -65,12 +60,6 @@ comment
 # a = py == pa
 # print(a)
 
-# a = input("Enter Your Name: ")
-# b = input("Enter Your Father Name: ")
-# c = input("Enter Your Mother Name: ")
-# d = input("Enter Your SSC Section: ")
-# print("Your Personal Information:","\nName:" ,a,"\nFather Name:" ,b, ",\nMother Name: " ,c, ",\nCSS Section:",d)
-
 
 # num = 12
 # if num > 5:
@@ -114,6 +103,7 @@ comment
 #     print("Number is 7")
 # else:
 #     print("Number isn't 5, 11 or 7")
+
 
 # a = 1
 # b = "Logout" if a == 1 else "Login"
