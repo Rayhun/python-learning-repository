@@ -109,3 +109,36 @@ comment
 # b = "Logout" if a == 1 else "Login"
 # print(b)
 
+cha = 4
+star = 0
+while cha >= star:
+    inp = str(input("Enter Command : ").lower())
+    star += 1
+    if inp == "rayhan":
+        print(''' 
+        	Name : Rayhan
+        	Father: A.Aziz
+        	Mother: Sahana Parvin
+        	Age   : 19
+        	Deterr : CSE 
+        	 ''')
+    elif inp == "abul":
+        print(''' 
+        	Name : Abul
+        	Father: Babul
+        	Mother: Rohima
+        	Age   : 25
+        	Deterr : Civil
+        	 ''')
+    elif inp == "tamim":
+        print(''' 
+        	Name : Tamim
+        	Father: Basar
+        	Mother: Hasina
+        	Age   : 27
+        	Deterr : CSE
+        	 ''')
+    elif inp == "":
+        print("Enter Person Name,")
+    else:
+        print("Out of dataStore :")
