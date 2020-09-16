@@ -19,4 +19,4 @@ for i in range(25):
     elif inp <= 23:
         print("Dinner", "\"Try ", i,  "Time\"")
     else:
-        print("Out of range")
+        print("Out of range", "\"Try ", i,  "Time\"")

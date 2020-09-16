@@ -26,8 +26,8 @@ def car_game():
                 ''')
         else:
             print("ask me only \"start\" or \"stop\" & \"help\"")
-# car_game()
+car_game()
 
-main = [5,1,1,5,1,1,1]
-for num in main:
-    print(num*"*")
+# main = [5,1,1,5,1,1,1]
+# for num in main:
+#     print(num*"*")

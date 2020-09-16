@@ -90,4 +90,9 @@
 # 		break
 
 # 	i += 1
+def numberis():
+	global data
+	data = "rayhan"
 
+numberis()
+print(data)
